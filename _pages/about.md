@@ -9,7 +9,7 @@ redirect_from:
 
 I am a doctoral student from [College of Information Science and Engineering](http://www.ise.neu.edu.cn), [Northeastern University](https://www.neu.edu.cn), China. My research interests include vehicle logistics, modeling and optimization, and integer programming.
 
-Email adresses
+Email addresses
 -----
 lizy77@mails.neu.edu.cn <br>
 2110354@stu.neu.edu.cn
