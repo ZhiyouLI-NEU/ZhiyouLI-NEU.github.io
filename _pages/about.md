@@ -26,11 +26,11 @@ Phd student
 
 Publications
 ------
-Ruiyou Zhang, and Zhiyou Li (2023). “Stackelberg game model of green tourism supply chain with governmental subsidy.” INFOR: Information Systems and Operational Research. 61, 2: 141-168.
+Ruiyou Zhang, and **Zhiyou Li** (2023). “Stackelberg game model of green tourism supply chain with governmental subsidy.” INFOR: Information Systems and Operational Research. 61, 2: 141-168.
 
-Hongpeng Hou, Shiheng Zhu, Zhiyou Li, and Ruiyou Zhang (2025). “Combination of Berth Allocation and Storage Assignment in Dry Bulk Ports Considering Consolidated Stacking Strategies” European Journal of Industrial Engineering. DOI: 10.1504/EJIE.2025.10069262.
+Hongpeng Hou, Shiheng Zhu, **Zhiyou Li**, and Ruiyou Zhang (2025). “Combination of Berth Allocation and Storage Assignment in Dry Bulk Ports Considering Consolidated Stacking Strategies” European Journal of Industrial Engineering. DOI: 10.1504/EJIE.2025.10069262.
 
-Dongxue Xu, Zhiyou Li, and Ruiyou Zhang (2023). “Microservice deployment problem in the edge-side of intelligent factories.” Third International Symposium on Computer Engineering and Intelligent Communications (ISCEIC 2022).
+Dongxue Xu, **Zhiyou Li**, and Ruiyou Zhang (2023). “Microservice deployment problem in the edge-side of intelligent factories.” Third International Symposium on Computer Engineering and Intelligent Communications (ISCEIC 2022).
 
 Aawards
 ------
