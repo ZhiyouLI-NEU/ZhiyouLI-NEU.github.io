@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I an a doctoral student from [College of Information Science and Engineering](http://ise.neu.edu.cn), [Northeastern University](https://neu.edu.cn), China. My research interests include vehicle logistics, modeling and optimization, and integer programming.
+I am a doctoral student from [College of Information Science and Engineering](http://ise.neu.edu.cn), [Northeastern University](https://neu.edu.cn), China. My research interests include vehicle logistics, modeling and optimization, and integer programming.
 
 Email adresses
 -----
@@ -17,11 +17,11 @@ lizy77@mails.neu.edu.cn <br>
 Educational History
 -----
 2017.09 to 2021.07 <br>
-Northeastern University <br>
+[Northeastern University](https://neu.edu.cn) <br>
 Bachelor <br>
 
 2021.09 until now <br>
-Northeastern University <br>
+[Northeastern University](https://neu.edu.cn) <br>
 Phd student
 
 Publications
