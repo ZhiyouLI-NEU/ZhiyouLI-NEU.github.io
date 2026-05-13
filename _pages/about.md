@@ -18,7 +18,7 @@ Educational History
 -----
 2017.09 to 2021.07 <br>
 [Northeastern University](https://www.neu.edu.cn) <br>
-Bachelor <br>
+Bachelor
 
 2021.09 until now <br>
 [Northeastern University](https://www.neu.edu.cn) <br>
