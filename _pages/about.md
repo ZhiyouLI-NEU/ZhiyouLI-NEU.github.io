@@ -32,6 +32,6 @@ Hongpeng Hou, Shiheng Zhu, **Zhiyou Li**, and Ruiyou Zhang (2025). “Combinatio
 
 Dongxue Xu, **Zhiyou Li**, and Ruiyou Zhang (2023). “Microservice deployment problem in the edge-side of intelligent factories.” Third International Symposium on Computer Engineering and Intelligent Communications (ISCEIC 2022).
 
-Aawards
+Awards
 ------
 Outstanding undergraduate thesis of Northeastern University (2021.06)
